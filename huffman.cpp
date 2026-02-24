@@ -23,8 +23,8 @@ void HuffmanTree::generateCodes(HuffmanNode* node, const string& code) {
 
     // Leaf node(an actual character)
     if (!node->left && !node->right) //if both left child and right child is null
-    {                                       
-        codes[node->data] = code;            //node->data is the character stored in the leaf node  
+    {                                      
+        codes[node->data] = code;           //node->data is the character stored in the leaf node  
         reverse[code] = node->data;      //code is the path you took from the root to this node(binary string)
         return;
     }
@@ -75,6 +75,67 @@ unordered_map<char, int> HuffmanTree::buildFrequencyTable(const string& text) {
     for (char c : text){  //harek loop ma text ko ek ek character c hudai janxa
         freq[c]++;        //harek specific character ko count store hunxa 
     }
-    return freq;
+    return freq;    //freq have pairs of (character,frequency)
+}
+
+//build huffman tree using min-heap (Greedy Algorithm)
+
+void HuffmanTree::build(const unordered_map<char, int>& freq) {
+    // Push all characters into the priority queue (min-heap)
+    priority_queue<HuffmanNode*, vector<HuffmanNode*>, Compare> minHeap;  //priority queue is a special container in C++ , like a heap the largest/smallest element is always at the top
+    //syntax: priority_queue<Type, Container, Comparator> pq; <each element of the heap is a pointer to HuffmanNode,
+    //                                                          container storing the nodes is a vector,
+    //                                                          Compare(custom comparator) ensures root always has the smallest frequency node>
+    for (auto& pair : freq)   //pair is each element pair in freq
+        minHeap.push(new HuffmanNode(pair.first, pair.second));      // for every character a node is created and pushed to heap
+
+    //heap stores address and each address points to a node in memory 
+    //initially heap stores pointers to individual character nodes 
+    //during merging , when a merged node  is pushed in heap being priority queue it reorganizes in order(when a node is pushed into a priority queue, it is first added at the bottom and then repeatedly swapped with its parent until heap order is restored.)
+    //and after the repeated merging is completed , minHeap only contains a pointer to the root node 
+
+    // Greedy merging(repeatedly merging the two lowest frequency nodes until only one node remains)
+    while (minHeap.size() > 1) {
+        HuffmanNode* left  = minHeap.top(); minHeap.pop();   //since character with lowest frequency is at top we take the two top element
+        HuffmanNode* right = minHeap.top(); minHeap.pop();
+
+        // Internal node: combined frequency (no character)
+        HuffmanNode* merged = new HuffmanNode('\0', left->freq + right->freq);
+        merged->left  = left;
+        merged->right = right;
+
+        minHeap.push(merged);
+    }
+
+    root = minHeap.top(); //minHeap ma root node ko pointer matra xa tara teslai access garna .top() use gareko 
+    generateCodes(root, ""); // aba root node bataw traverse gardai harek character ko lagi binary code genearte garxa
+    //ani generate vako huffman binary haru codes ra reverse(HuffmanTree object ko private data) ma store variable ma store vayera basxa
+}
+//NOTE: so the root has pointer to its left and right subtree and its left and right subtree has pinter to their left and right subtree and so on
+//Huffman Tree is  nested pointers and we use this to generate codes 
+
+
+
+//Encoding text into a binary bit string
+string HuffmanTree::encode(const string& text) {
+    string encoded = "";
+    for (char c : text)
+        encoded += codes[c];
+    return encoded;
+}
+
+//Decoding bit string back to original text
+string HuffmanTree::decode(const string& bitStr) {
+    string decoded = "";
+    HuffmanNode* curr = root;
+    for (char bit : bitStr) {      // the loop iterates one bit at a time
+        curr = (bit == '0') ? curr->left : curr->right;  //if current bit is 0 move to left otherwise move to right
+        //checking if we reached a leaf node(actual character)
+        if (!curr->left && !curr->right) {
+            decoded += curr->data;               //curr = leaf node huda decoded character i.e. curr->data thahunxa
+            curr = root; // restart from root
+        }
+    }
+    return decoded; //returns the altogether decoded strings
 }
 
