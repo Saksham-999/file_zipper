@@ -1,0 +1,621 @@
+hello I am Saksham and this is a demo text file and I will write random things to increase the file size
+
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.
+The quick brown fox jumps over the lazy dog near the river bank. Data structures and algorithms form the backbone of efficient software systems. Compression techniques reduce storage requirements and improve transmission speed across networks.
+
+Huffman coding is a lossless data compression algorithm that assigns variable length binary codes to characters based on their frequencies. Frequently occurring characters receive shorter codes while rare characters receive longer ones.
+
+Computer science students often implement file compression projects to understand trees, heaps, recursion, and greedy algorithms. Testing compression requires files containing repeated words, symbols, and different sentence structures.
+
+Artificial intelligence, machine learning, and software engineering continue to evolve rapidly in modern computing environments. Efficient data storage plays an important role in large-scale applications.
+
+This is a sample demo text file created for testing compression and decompression functionality. The purpose of this file is to simulate realistic textual data with repetition repetition repetition and variation variation variation.
+
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of demo file.

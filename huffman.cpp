@@ -41,7 +41,7 @@ void HuffmanTree::freeTree(HuffmanNode* node) {
 }
 
 // Print tree rotated 90° clockwise (right subtree on top)
-void HuffmanTree::printTree(HuffmanNode* node, int space, int gap) {  //gap controls width between levels
+void HuffmanTree::printTree(HuffmanNode* node, int space = 0, int gap = 5) {  //gap controls width between levels
     if (!node){
         return;
     }
@@ -139,3 +139,181 @@ string HuffmanTree::decode(const string& bitStr) {
     return decoded; //returns the altogether decoded strings
 }
 
+// to print code table in csv (for checking)
+void HuffmanTree::printCodeTableCSV() {
+    cout << "Char,Code,Bits\n";          // header
+    for (auto& p : codes) {
+        string ch = (p.first == '\n') ? "\\n" : (p.first == ' ')  ? "SPC" : string(1, p.first);  //string(length,character) is used to convert that char to a string of length 1
+        cout << ch << "," << p.second << "," << p.second.size() << "\n";
+    }
+}
+//A wrapper contains original thing to make it easier to use, add extra features, or make it compatible with another system.
+// Public wrapper for printTree because outside code cannot access root directly as root node is private
+void HuffmanTree::printTree() { 
+    printTree(root); 
+}
+
+//Save Compressed File
+// Format: [table size] [char+freq pairs] [padding count] [packed bytes(compressed data)]
+//since have know table size first so char+freq pairs ka samma xa thaha hunxa tespaxi 
+//padding count = number of extra zeros added to make last byte complete
+//stored in file so decoder knows how many bits at the end are not real data
+void saveCompressed(const string& filename, const unordered_map<char, int>& freqTable, const string& encoded)   //freqTable is map:frequency (char → int)
+                                                                                                                //encoded is huffman encoded text
+{
+    //ofstream(output file stream(used for writing files) is a class and out is an object of type ofstream
+    ofstream out(filename, ios::binary);  //ios::binary means open the file in binary mode because because we are writing raw bytes
+   //ios::binary is just a flag from the ios namespace that disable any automatic text conversions and let you write/read raw bytes exactly as they are in memory
+    
+   if (!out) {   //checking if file opened successfully
+        cerr << "Error: Cannot open file for writing.\n"; 
+        return; 
+    }
+
+    // Write frequency table size
+    int tableSize = freqTable.size();   //freqTable contains character -> frequency
+    out.write(reinterpret_cast<char*>(&tableSize), sizeof(int));  //convert (pointer to int i.e &tableSize) to (pointer to char) so write() can write the raw bytes to the file as this memory address is treated as raw bytes instead of an int
+    //write(const char* data, streamsize size); it wants pointer to raw bytes (char*) and how many bytes to write 
+    //In C++, a char* can access any data type in memory because all data stored in computer memory is ultimately just a sequence of bytes, and a char represents exactly one byte (sizeof(char) = 1).   1byte = 8bit btw
+    //When any variable (like an int, float, object, or structure) is converted to a char*, the pointer simply treats that variable’s memory address as raw byte data and reads it one byte at a time without caring about the original data type. 
+    //This means char* does not interpret values it only accesses the underlying memory representation directly, which is why it can be used to read, copy, or write any kind of data (such as when saving integers or structures to a binary file using out.write()), since every datatype in C++ is fundamentally stored as bytes in memory.
+
+    // Write each char and its frequency
+    for (auto& p : freqTable) {
+        out.write(&p.first, sizeof(char));   //p.first vaneko already character ho so type cast garna pardaina
+        out.write(reinterpret_cast<const char*>(&p.second), sizeof(int));
+    }
+
+    // Write padding count (extra 0 bits to fill the last byte)
+    int padding = (8 - encoded.size() % 8) % 8; //encoded.size() % 8 tells us bits left after full bytes and 8 lai minus number of extra 0 bits needed to fill last byte thahahunxa last ma 8% just ensure gareko ho ki tyo number 8 vanda dherai na hos
+    out.write(reinterpret_cast<char*>(&padding), sizeof(int));
+
+    // Pack bits into bytes and write
+    string padded = encoded + string(padding, '0');
+    for (size_t i = 0; i < padded.size(); i += 8) {  //Loop through every 8 bits
+        bitset<8> byte(padded.substr(i, 8)); //Take 8-character substring and bitset<8> converts a string like "10101011"
+        char c = static_cast<char>(byte.to_ulong());//byte.to_ulong() converts the 8 bits to  a number between 0–255
+        out.write(&c, 1);// writes 1 byte to the file
+    }
+    //Now, string of bits is now stored as actual bytes, not text '0' and '1'.
+    out.close();
+    cout << "Compressed file saved: " << filename << "\n";
+}
+
+//Loading Compressed File
+void loadCompressed(const string& filename, unordered_map<char, int>& freqTable, string& encoded)
+{
+    ifstream in(filename, ios::binary);
+    if (!in) {
+         cerr << "Error: Cannot open compressed file.\n";
+         return;
+        }
+
+    // Read frequency table
+    int tableSize;
+    in.read(reinterpret_cast<char*>(&tableSize), sizeof(int)); //reads first 4 bytes and the pointer moves forward
+    for (int i = 0; i < tableSize; i++) {
+        char c; 
+        int f;
+        in.read(&c, sizeof(char));  //reads next 1 byte and the pointer moved forward
+        in.read(reinterpret_cast<char*>(&f), sizeof(int)); //reads next 4 bytes and the pointer moves forward
+        freqTable[c] = f;
+    }  //now after the loop is completed the pointer is exactly at padding count
+
+    // Read padding
+    int padding;
+    in.read(reinterpret_cast<char*>(&padding), sizeof(int)); //reads next 4 bytes and pointer moves forward
+
+    // Read compresses bytes
+    encoded = "";
+    char byte;
+    while (in.read(&byte, 1))   //reads until file ends 1 byte at a time
+    {
+        bitset<8> bits(static_cast<unsigned char>(byte));   //converting byte to bits
+        encoded += bits.to_string(); //convert bits to string so we reconstruct full Huffman bit stream
+        //encoded = "01000001..."
+    }
+
+    // Strip padding bits from the end
+    if (padding > 0){
+        encoded = encoded.substr(0, encoded.size() - padding);  //remove fake zeros added earlier
+        //before : 101011000(3 padding bits), after : 101011
+    }
+    in.close(); //close file(releases file source)
+}
+
+//  COMPRESSION(Read file, encode, save .huff)
+void compressFile(const string& inputfile, const string& outputfile) 
+{
+    ifstream in(inputfile);//creates an input file stream object 'in' that establishes a connection between this program and the specified file so it can be read
+    //asks OS to open file to read
+    //reads a large block of bytes from disk into internal buffer all at once (not one by one directly from disk).
+    //internal buffer is RAM memory used for fast reading
+
+    if (!in) {    //if file opening failed
+        cerr << "Error: Input file not found.\n"; 
+        return;
+    }
+    string text((istreambuf_iterator<char>(in)), istreambuf_iterator<char>()); //eads file character by character and stores everything into one string
+    in.close();
+
+    if (text.empty()) { 
+        cerr << "Error: File is empty.\n"; 
+        return; 
+    }
+
+    cout << "\n Original file  : " << inputfile;
+    cout << "\n Original size  : " << text.size() << " bytes\n";
+
+    HuffmanTree tree;   //creating huffman tree object 
+    //build frequency table
+    auto freqTable = tree.buildFrequencyTable(text);
+    //build huffman tree
+    tree.build(freqTable);
+
+    cout << "\nHuffman Code Table CSV:";
+    tree.printCodeTableCSV();
+
+    cout << "\nHuffman Tree (rotated 90°):";
+    tree.printTree();
+    
+    //encoding text 
+    string encoded = tree.encode(text);
+
+    double origBits = text.size() * 8.0;  //1 byte = 8 bits
+    double compBits = encoded.size();  //we didnot multiply combits by 8 because encoded text is already in bits
+    //compression ratio
+    double ratio    = (1.0 - compBits / origBits) * 100.0;
+
+    cout << "\nCompression Stats:\n";
+    cout << "Original bits:" << (int)origBits << "\n";
+    cout << "Compressed bits :" << (int)compBits << "\n";
+    cout << fixed << setprecision(2);//fixed tells cout to always print numbers in fixed-point decimal format not scientific notation
+    //from <iomanip> library ,tells cout how many digits to show after the decimal point when printing floating point numbers.
+    cout << "Space saved:" << ratio << "%\n";
+
+    saveCompressed(outputfile, freqTable, encoded);
+}
+
+//DECOMPRESSION(Load .huff, decode, save text file)
+void decompressFile(const string& inputFile, const string& outputFile) {
+    unordered_map<char, int> freqTable;
+    string encoded;
+
+    loadCompressed(inputFile, freqTable, encoded); //freqTable and encoded are passed by reference so the function can modify the original variables
+
+    HuffmanTree tree;   //creates a new HuffmanTree object
+    tree.build(freqTable);  //uses freqTable to reconstruct the exact same Huffman tree that was used during compression
+    string decoded = tree.decode(encoded);  //decoded now contains the full original text exactly as it was before compression
+
+    ofstream out(outputFile); //pen output file for writing
+    if (!out) { 
+        cerr << "Error: Cannot open output file.\n"; 
+        return; 
+    }
+    out << decoded;  //writes the full original text into outputFile
+    out.close();     //closes the file stream, flushing all data to disk.
+ 
+    cout << "\nDecompressed file saved: " << outputFile << "\n";
+    cout << "Recovered " << decoded.size() << " characters.\n";
+}

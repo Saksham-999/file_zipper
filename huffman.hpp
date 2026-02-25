@@ -49,13 +49,9 @@ public:
     void   build(const unordered_map<char, int>& freq); //creates huffman tree using priority queue and greedy algorithm 
     string encode(const string& text);  //converts text to binary string
     string decode(const string& bitStr);  //converts binary to original text
-    void   printCodeTable();  //displays generated codes (just for demonstration)
+    void   printCodeTableCSV();  //displays generated codes (just for demonstration)
     void   printTree();   //displays tree 
-
-    //getter functions used (allow controlled access to private data)
-    unordered_map<char, string>& getCodes(); //provides huffman encoding table for compression.
-    unordered_map<string, char>& getReverse(); //returns binary codes back into characters.
-    HuffmanNode* getRoot();  //returns a pointer to the root node (which gives access to Huffman tree structure)
+    
 };
 
 //file input/output (compress /decompress)
